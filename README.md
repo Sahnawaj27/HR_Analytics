@@ -1,3 +1,7 @@
+🔗 Check out the Power BI Dashboard:
+
+https://www.novypro.com/project/hr-analytics-dashboard-power-bi-44
+
 I am thrilled to share that I have recently wrapped up an extensive Power BI project that involved working with data of an organization.
 
 The object is to help an organization to improve employee performance and find reason of attrition by creating a dashboard.
@@ -30,6 +34,4 @@ Emphasizing the delivery of actionable insights and significant visual represent
 
 
 
-🔗 Check out the Power BI Dashboard:
 
-https://www.novypro.com/project/hr-analytics-dashboard-power-bi-44
